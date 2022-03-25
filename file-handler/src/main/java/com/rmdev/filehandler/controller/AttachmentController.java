@@ -17,6 +17,8 @@ import org.springframework.web.servlet.support.ServletUriComponentsBuilder;
 @RequestMapping("/api")
 public class AttachmentController {
 
+    // Upload files to the database
+
     private AttachmentService attachmentService;
 
     @Autowired
