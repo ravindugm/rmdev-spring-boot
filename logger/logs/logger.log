@@ -1,0 +1,18 @@
+2022-04-03 20:40:05,792 INFO com.rmdev.logger.LoggerApplication [restartedMain] Started LoggerApplication in 2.34 seconds (JVM running for 3.227)
+2022-04-03 20:42:52,775 INFO com.rmdev.logger.LoggerApplication [restartedMain] Starting LoggerApplication using Java 11.0.14.1 on hiru with PID 9321 (/home/hiru/RMDev/rmdev-spring-boot/logger/target/classes started by hiru in /home/hiru/RMDev/rmdev-spring-boot/logger)
+2022-04-03 20:42:52,777 DEBUG com.rmdev.logger.LoggerApplication [restartedMain] Running with Spring Boot v2.6.6, Spring v5.3.18
+2022-04-03 20:42:52,778 INFO com.rmdev.logger.LoggerApplication [restartedMain] No active profile set, falling back to 1 default profile: "default"
+2022-04-03 20:42:53,688 INFO com.rmdev.logger.LoggerApplication [restartedMain] Started LoggerApplication in 1.135 seconds (JVM running for 1.702)
+2022-04-03 20:42:57,724 ERROR com.rmdev.logger.controller.HomeController [http-nio-8080-exec-1] MAJOR ERROR
+2022-04-03 20:42:57,795 ERROR com.rmdev.logger.controller.HomeController [http-nio-8080-exec-2] MAJOR ERROR
+2022-04-03 20:42:58,226 ERROR com.rmdev.logger.controller.HomeController [http-nio-8080-exec-3] MAJOR ERROR
+2022-04-03 20:42:58,619 ERROR com.rmdev.logger.controller.HomeController [http-nio-8080-exec-4] MAJOR ERROR
+2022-04-03 20:42:58,831 ERROR com.rmdev.logger.controller.HomeController [http-nio-8080-exec-5] MAJOR ERROR
+2022-04-03 20:42:59,025 ERROR com.rmdev.logger.controller.HomeController [http-nio-8080-exec-6] MAJOR ERROR
+2022-04-03 20:42:59,231 ERROR com.rmdev.logger.controller.HomeController [http-nio-8080-exec-7] MAJOR ERROR
+2022-04-03 20:42:59,464 ERROR com.rmdev.logger.controller.HomeController [http-nio-8080-exec-8] MAJOR ERROR
+2022-04-03 20:42:59,672 ERROR com.rmdev.logger.controller.HomeController [http-nio-8080-exec-10] MAJOR ERROR
+2022-04-03 20:42:59,872 ERROR com.rmdev.logger.controller.HomeController [http-nio-8080-exec-9] MAJOR ERROR
+2022-04-03 20:43:00,082 ERROR com.rmdev.logger.controller.HomeController [http-nio-8080-exec-1] MAJOR ERROR
+2022-04-03 20:43:00,257 ERROR com.rmdev.logger.controller.HomeController [http-nio-8080-exec-2] MAJOR ERROR
+2022-04-03 20:43:00,437 ERROR com.rmdev.logger.controller.HomeController [http-nio-8080-exec-3] MAJOR ERROR
