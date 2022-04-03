@@ -1,0 +1,20 @@
+2022-04-03 18:12:03,328 [INFO] com.rmdev.logger.LoggerApplication [restartedMain] Starting LoggerApplication using Java 11.0.14.1 on hiru with PID 17226 (/home/hiru/RMDev/rmdev-spring-boot/logger/target/classes started by hiru in /home/hiru/RMDev/rmdev-spring-boot/logger)
+2022-04-03 18:12:03,329 [DEBUG] com.rmdev.logger.LoggerApplication [restartedMain] Running with Spring Boot v2.6.6, Spring v5.3.18
+2022-04-03 18:12:03,330 [INFO] com.rmdev.logger.LoggerApplication [restartedMain] No active profile set, falling back to 1 default profile: "default"
+2022-04-03 18:12:03,393 [INFO] org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor [restartedMain] Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2022-04-03 18:12:03,394 [INFO] org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor [restartedMain] For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2022-04-03 18:12:04,259 [INFO] org.springframework.boot.web.embedded.tomcat.TomcatWebServer [restartedMain] Tomcat initialized with port(s): 8080 (http)
+2022-04-03 18:12:04,265 [INFO] org.apache.catalina.core.StandardService [restartedMain] Starting service [Tomcat]
+2022-04-03 18:12:04,266 [INFO] org.apache.catalina.core.StandardEngine [restartedMain] Starting Servlet engine: [Apache Tomcat/9.0.60]
+2022-04-03 18:12:04,312 [INFO] org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] [restartedMain] Initializing Spring embedded WebApplicationContext
+2022-04-03 18:12:04,312 [INFO] org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext [restartedMain] Root WebApplicationContext: initialization completed in 918 ms
+2022-04-03 18:12:04,660 [INFO] org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer [restartedMain] LiveReload server is running on port 35729
+2022-04-03 18:12:04,690 [INFO] org.springframework.boot.web.embedded.tomcat.TomcatWebServer [restartedMain] Tomcat started on port(s): 8080 (http) with context path ''
+2022-04-03 18:12:04,706 [INFO] com.rmdev.logger.LoggerApplication [restartedMain] Started LoggerApplication in 1.819 seconds (JVM running for 2.708)
+2022-04-03 18:12:07,067 [INFO] org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] [http-nio-8080-exec-1] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-04-03 18:12:07,068 [INFO] org.springframework.web.servlet.DispatcherServlet [http-nio-8080-exec-1] Initializing Servlet 'dispatcherServlet'
+2022-04-03 18:12:07,070 [INFO] org.springframework.web.servlet.DispatcherServlet [http-nio-8080-exec-1] Completed initialization in 1 ms
+2022-04-03 18:12:07,092 [TRACE] com.rmdev.logger.controller.HomeController [http-nio-8080-exec-1] MAJOR ERROR
+2022-04-03 18:17:06,129 [TRACE] com.rmdev.logger.controller.HomeController [http-nio-8080-exec-3] MAJOR ERROR
+2022-04-03 18:17:06,988 [TRACE] com.rmdev.logger.controller.HomeController [http-nio-8080-exec-4] MAJOR ERROR
+2022-04-03 18:17:08,549 [TRACE] com.rmdev.logger.controller.HomeController [http-nio-8080-exec-5] MAJOR ERROR
